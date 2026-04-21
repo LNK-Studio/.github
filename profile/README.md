@@ -14,7 +14,7 @@
 |:------:|:--------:|
 | <a href="https://github.com/GreenDude5"><img src="https://avatars.githubusercontent.com/u/61519837?v=4" width="60" style="border-radius:50%" /></a> | [GreenDude5](https://github.com/GreenDude5) |
 | <a href="https://github.com/PanMikolaj"><img src="https://avatars.githubusercontent.com/u/100166221?v=4" width="60" style="border-radius:50%" /></a> | [PanMikolaj](https://github.com/PanMikolaj) |
-| <a href="https://github.com/Tiramis1234"><img src="https://avatars.githubusercontent.com/u/123622639?v=4" width="60" style="border-radius:50%" /></a> | [GreenDude5](https://github.com/Tiramis1234) |
+| <a href="https://github.com/Tiramis1234"><img src="https://avatars.githubusercontent.com/u/123622639?v=4" width="60" style="border-radius:50%" /></a> | [Tiramis1234](https://github.com/Tiramis1234) |
 
 ---
 
